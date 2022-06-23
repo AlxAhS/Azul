@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace Blue.DAL.Models
 {
-    public class ConsultingRoom
+    public class ExamRoom
     {
         public string ID { get; set; }
         public string Phone { get; set; }

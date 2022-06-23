@@ -3467,37 +3467,29 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\JOSE GABRIEL AHUMADA\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\mieles\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\pers\\Azul\\WebAPI\\Blue.DAL\\Blue.DAL.csproj",
+      "projectUniqueName": "C:\\Dev\\Azul\\Azul\\WebAPI\\Blue.DAL\\Blue.DAL.csproj",
       "projectName": "Blue.DAL",
-      "projectPath": "C:\\pers\\Azul\\WebAPI\\Blue.DAL\\Blue.DAL.csproj",
-      "packagesPath": "C:\\Users\\JOSE GABRIEL AHUMADA\\.nuget\\packages\\",
-      "outputPath": "C:\\pers\\Azul\\WebAPI\\Blue.DAL\\obj\\",
+      "projectPath": "C:\\Dev\\Azul\\Azul\\WebAPI\\Blue.DAL\\Blue.DAL.csproj",
+      "packagesPath": "C:\\Users\\mieles\\.nuget\\packages\\",
+      "outputPath": "C:\\Dev\\Azul\\Azul\\WebAPI\\Blue.DAL\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\JOSE GABRIEL AHUMADA\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\mieles\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.2"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\dev\\LocalPackages": {},
-        "https://api.nuget.org/v3/index.json": {},
-        "https://pkgs.dev.azure.com/TvcProDriver/_packaging/TVC2MasterFeedPr1/nuget/v3/index.json": {},
-        "https://pkgs.dev.azure.com/mjlofflandtest/_packaging/TVC/nuget/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp2.2": {
+          "targetAlias": "netcoreapp2.2",
           "projectReferences": {}
         }
       },
@@ -3509,6 +3501,7 @@
     },
     "frameworks": {
       "netcoreapp2.2": {
+        "targetAlias": "netcoreapp2.2",
         "dependencies": {
           "Microsoft.EntityFrameworkCore": {
             "target": "Package",
@@ -3535,7 +3528,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
       }
     }
   }

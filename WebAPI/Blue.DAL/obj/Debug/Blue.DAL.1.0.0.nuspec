@@ -4,8 +4,6 @@
     <id>Blue.DAL</id>
     <version>1.0.0</version>
     <authors>Blue.DAL</authors>
-    <owners>Blue.DAL</owners>
-    <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Package Description</description>
     <dependencies>
       <group targetFramework=".NETCoreApp2.2">
@@ -15,6 +13,6 @@
     </dependencies>
   </metadata>
   <files>
-    <file src="C:\pers\Azul\WebAPI\Blue.DAL\bin\Debug\netcoreapp2.2\Blue.DAL.dll" target="lib\netcoreapp2.2\Blue.DAL.dll" />
+    <file src="C:\Dev\Azul\Azul\WebAPI\Blue.DAL\bin\Debug\netcoreapp2.2\Blue.DAL.dll" target="lib\netcoreapp2.2\Blue.DAL.dll" />
   </files>
 </package>

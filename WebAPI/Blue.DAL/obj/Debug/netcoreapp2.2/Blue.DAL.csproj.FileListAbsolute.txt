@@ -23,3 +23,13 @@ C:\pers\Azul\WebAPI\Blue.DAL\bin\Debug\netcoreapp2.2\Blue.DAL.deps.json
 C:\pers\Azul\WebAPI\Blue.DAL\bin\Debug\netcoreapp2.2\Blue.DAL.dll
 C:\pers\Azul\WebAPI\Blue.DAL\bin\Debug\netcoreapp2.2\Blue.DAL.pdb
 C:\pers\Azul\WebAPI\Blue.DAL\obj\Debug\netcoreapp2.2\Blue.DAL.csprojAssemblyReference.cache
+C:\Dev\Azul\Azul\WebAPI\Blue.DAL\bin\Debug\netcoreapp2.2\Blue.DAL.deps.json
+C:\Dev\Azul\Azul\WebAPI\Blue.DAL\bin\Debug\netcoreapp2.2\Blue.DAL.dll
+C:\Dev\Azul\Azul\WebAPI\Blue.DAL\bin\Debug\netcoreapp2.2\Blue.DAL.pdb
+C:\Dev\Azul\Azul\WebAPI\Blue.DAL\obj\Debug\netcoreapp2.2\Blue.DAL.csproj.AssemblyReference.cache
+C:\Dev\Azul\Azul\WebAPI\Blue.DAL\obj\Debug\netcoreapp2.2\Blue.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\Azul\Azul\WebAPI\Blue.DAL\obj\Debug\netcoreapp2.2\Blue.DAL.AssemblyInfoInputs.cache
+C:\Dev\Azul\Azul\WebAPI\Blue.DAL\obj\Debug\netcoreapp2.2\Blue.DAL.AssemblyInfo.cs
+C:\Dev\Azul\Azul\WebAPI\Blue.DAL\obj\Debug\netcoreapp2.2\Blue.DAL.csproj.CoreCompileInputs.cache
+C:\Dev\Azul\Azul\WebAPI\Blue.DAL\obj\Debug\netcoreapp2.2\Blue.DAL.dll
+C:\Dev\Azul\Azul\WebAPI\Blue.DAL\obj\Debug\netcoreapp2.2\Blue.DAL.pdb
